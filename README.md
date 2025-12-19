@@ -4,8 +4,6 @@
 * 💬 Ask me about any issues!
 * 📫 How to reach me: [17516970902@163.com](17516970902@163.com)
 * 🎓 Personal Academic Website: [Bingjie Dai](https://orcid.org/0009-0002-6020-6767)
-* 🎮 [![](https://dcbadge.limes.pink/api/shield/563254318585610240?style=flat)](https://discordapp.com/users/563254318585610240)
-* 😺 ![Profile views](https://komarev.com/ghpvc/?username=leonardodalinky&color=brightgreen)
 
 🛠 **Languages and tools:**  
 
