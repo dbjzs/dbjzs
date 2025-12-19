@@ -8,12 +8,6 @@
 🛠 **Languages and tools:**  
 
 [<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>](https://www.python.org/)
-[<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"></code>](https://www.rust-lang.org/)
-[<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>](https://cplusplus.com/)
-[<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>](https://www.java.com/)
-[<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>](https://www.javascript.com/)
-[<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>](https://www.typescriptlang.org/)
-[<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>](https://go.dev/)
 [<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>](https://www.postgresql.org/)
 [<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>](https://www.mongodb.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>](https://www.linux.org/)
