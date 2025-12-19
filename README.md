@@ -1,9 +1,9 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">Hi! I'm leonardodalinky
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">Hi! I'm Bingjie Dai
 
-* 😊 Also called AyajiLin in games!
+* 😊 Also called DBJZS in games!
 * 💬 Ask me about any issues!
 * 📫 How to reach me: [17516970902@163.com](17516970902@163.com)
-* 🎓 Personal Academic Website: [About K. Lin](https://leonardodalinky.github.io/researcher/)
+* 🎓 Personal Academic Website: [Bingjie Dai](https://orcid.org/0009-0002-6020-6767)
 * 🎮 [![](https://dcbadge.limes.pink/api/shield/563254318585610240?style=flat)](https://discordapp.com/users/563254318585610240)
 * 😺 ![Profile views](https://komarev.com/ghpvc/?username=leonardodalinky&color=brightgreen)
 
