@@ -8,12 +8,10 @@
 🛠 **Languages and tools:**  
 
 [<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>](https://www.python.org/)
-[<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>](https://www.postgresql.org/)
-[<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>](https://www.mongodb.com/)
+[<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></code>](https://www.r-project.org/)
+[<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>](https://jupyter.org/)
 [<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>](https://www.linux.org/)
-[<code><img height="20" src="https://avatars.githubusercontent.com/u/5167332"></code>](https://manjaro.org/)
 [<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>](https://www.docker.com/)
-[<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>](https://www.nginx.com/)
 
 📈 **My Github stats:**
 
