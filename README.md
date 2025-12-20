@@ -15,11 +15,11 @@
 
 📈 **My Github stats:**
 
-<a href="https://github.com/leonardodalinky/">
+<a href="https://github.com/dbjzs/">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dbjzs&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true" />
 </a>
 
-<a href="https://github.com/leonardodalinky/">
+<a href="https://github.com/dbjzs/">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbjzs&layout=compact&theme=dracula&langs_count=6&exclude_repo=lpsolve-android" />
 </a>
 
