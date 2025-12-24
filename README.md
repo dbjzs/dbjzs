@@ -15,8 +15,6 @@
 
 📈 **My Github stats:**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dbjzs&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
-
 
 
 <a href="https://github.com/dbjzs/">
