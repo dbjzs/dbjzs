@@ -15,10 +15,7 @@
 
 📈 **My Github stats:**
 
-
-
 <a href="https://github.com/dbjzs/">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbjzs&layout=compact&theme=dracula&langs_count=6&exclude_repo=lpsolve-android" />
 </a>
 
-![Snake animation](https://raw.githubusercontent.com/leonardodalinky/leonardodalinky/snake/github-contribution-grid-snake.svg)
